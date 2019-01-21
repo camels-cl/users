@@ -24,13 +24,13 @@ This research emerged from the collaboration with many colleagues at the Center 
 
 <a name="issues"></a>
 ### 2. Comments and issues
-In this [link](https://github.com/calvarezgarreton/camels-cl/issues), you can provide comments, report bugs and errors, request for specific information (e.g., scripts, examples, data sources) and suggest for examples to be published in the repository. 
+In this [link](https://github.com/camels-cl/dataset/issues), you can provide comments, report bugs and errors, request for specific information (e.g., scripts, examples, data sources) and suggest for examples to be published in the repository. 
 
 Informing about bugs and errors found while using the dataset is critical for generating improved versions of the dataset. One of the main sources of errors is streamflow gauge locations (see discussion in [Alvarez-Garreton et al., (2018)](https://www.hydrol-earth-syst-sci.net/22/5817/2018/)), therefore, if a better location (based on field data) is provided we can update all the information for the corresponding catchment.
 
 <a name="examples"></a>
 ### 3. Examples
-* Load and visualise data for single catchment: [github example](https://github.com/calvarezgarreton/camels-cl/blob/master/examples/load_single_catchment.md)
+* Load and visualise data for single catchment: [github example](https://github.com/camels-cl/dataset/blob/master/examples/load_single_catchment.md)
 * Load and visualise data for several catchments
 
 <a name="codes"></a>
