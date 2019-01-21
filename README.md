@@ -30,7 +30,7 @@ Informing about bugs and errors found while using the dataset is critical for ge
 
 <a name="examples"></a>
 ### 3. Examples
-* Load and visualise data for single catchment: [github example](dataset/examples/1_process_single_catchment.md)
+* Load and visualise data for single catchment: [github example](https://github.com/camels-cl/dataset/blob/master/examples/1_process_single_catchment.md)
 * Load and visualise data for several catchments
 
 <a name="codes"></a>
